@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
+VN88| Trang Chủ VN888.group Link Vào Không Bị Chặn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VN88 <https://vn888.group/>`_ là nhà cái hàng đầu tại Việt Nam, nổi bật với sự đa dạng trong trò chơi. Người chơi có thể tham gia cá cược thể thao, casino trực tuyến, slot game và game bài. VN88 mang đến trải nghiệm giải trí phong phú và đảm bảo tính minh bạch, an toàn cho người dùng.
+Thông Tin Chi Tiết:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://vn888.group/
 
-.. note::
+Địa Chỉ: 25 P. Đội Cấn, Đội Cấn, Ba Đình, Hà Nội, Việt Nam
 
-   This project is under active development.
+Số Điện Thoại: 0968733088
 
-Contents
---------
+Email: vn888.group@gmail.com
 
-.. toctree::
-
-   usage
-   api
+#vn88 #vn888 #vn888_group #nha_cai_vn88 #trang_chu_vn88
